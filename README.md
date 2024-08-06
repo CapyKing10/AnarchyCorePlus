@@ -1,5 +1,5 @@
-# UNFINISHED BUT USEABLE!
-# BUILD IT YOURSELF TO USE
+## UNFINISHED BUT USEABLE!
+## BUILD IT YOURSELF TO USE
 
 ![logo](src/main/resources/images/logo.png)
 
