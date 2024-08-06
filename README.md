@@ -1,3 +1,6 @@
+# UNFINISHED BUT USEABLE!
+# BUILD IT YOURSELF TO USE
+
 ![logo](src/main/resources/images/logo.png)
 
 [![Discord](https://img.shields.io/discord/1154497694597910620?style=flat-square&logo=discord&label=discord&color=blue)](https://dsc.gg/capyking10)
