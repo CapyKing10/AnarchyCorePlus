@@ -1,0 +1,56 @@
+name: AnarchyCorePlus
+version: '${version}'
+main: org.capy.anarchycoreplus.AnarchyCorePlus
+authors: [CapyKing10, danimania]
+api-version: '1.20'
+description: Core plugin for anarchy servers written by danimania, Added on to, Slightly rewritten And Improved by CapyKing10
+softdepend: [PlaceholderAPI]
+commands:
+  help:
+    description: Helps you! :)
+    usage: /help
+  bed:
+    description: Locates your current bed
+    usage: /bed
+  discord:
+    description: Displays Discord server
+    usage: /discord
+  stats:
+    description: Shows statistics about the server
+    usage: /stats
+  joindate:
+    description: Shows joindate
+    usage: /joindate
+  ping:
+    description: Shows your ping
+    usage: /ping
+  toggledeathmsgs:
+    description: Toggles death msgs
+    usage: /toggledeathmsgs
+  togglejoinmsgs:
+    description: Toggles join msgs
+    usage: /togglejoinmsgs
+  corereload:
+    description: Reloads the plugin
+    usage: /corereload
+  kill:
+    description: Kills you
+    usage: /kill
+  nc:
+    description: Changes your name
+    usage: /nc <color>
+  ignore:
+    description: Ignores people like jajo
+    usage: /ignore <name>
+  playtime:
+    description: Shows someone's playtime (including yourself)
+    usage: /playtime <name>
+  tpa:
+    description: Teleport to someone if they accept
+    usage: /tpa <name>
+  tpaccept:
+    description: Accept someone's teleport request
+    usage: /tpaccept <name>
+  tpdeny:
+    description: Deny someone's teleport request
+    usage: /tpdeny <name>
